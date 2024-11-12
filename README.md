@@ -4,7 +4,7 @@ Welcome to Santa Lucia Cyklar, an online showcase for a curated selection of bic
 [Visit the website](https://esarandon.github.io/santa-lucia-cyklar/)
 
 ## About the Project
-Santa Lucia Cyklar is a modern, user-friendly platform to browse and explore bikes from various categories. Built with a focus on clarity and ease of use, the website aims to enhance the user’s browsing experience with a visually appealing and responsive design.
+Santa Lucia Cyklar is a modern, user-friendly platform for browsing and exploring bikes from various categories. Built with a focus on clarity and ease of use, the website aims to enhance the user’s browsing experience with a visually appealing and responsive design.
 
 ## Features
 - **Dynamic Grid Layout**: The site displays bikes in a dynamic grid, showcasing their images, descriptions, and other relevant information.
@@ -44,9 +44,9 @@ Visit the homepage to browse the available bikes. Use the sorting options to ref
 ## Future Enhancements
 - **Filter by Category**: Enable filtering by bike category (e.g., mountain, road, electric).
 - **User Reviews and Ratings**: Allow users to leave feedback on each bike.
-- ****Detailed Bike Pages**: Add pages with more information for each bike.
-- **Cart Functionality**: Implement a shopping cart for users to add bikes they’re interested in purchasing.
+- **Detailed Bike Pages**: Add more information for each bike.
+- **Cart Functionality**: Implement a shopping cart for users to add bikes they want to purchase.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/esarandon/santa-lucia-cyklar/blob/main/LICENSE) file for more information.
 
